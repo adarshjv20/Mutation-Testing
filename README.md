@@ -1,6 +1,6 @@
 #ABOUT THE PROJECT - ( Default readme.md)
 
-# Mutation Matrix
+# Mutation Testing
 Manipulate Java bytecode of The Paint application using Structural Reflection using Javassist
 
 ### Prerequisites

@@ -1,0 +1,51 @@
+compile
+run
+exit
+compile
+run
+exit
+compile
+run
+compile
+test
+run
+compile
+run
+compile
+test
+run
+sbt
+compile
+run
+compile
+test
+run
+test
+exit
+sbt run
+run
+sun
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run-main app.Launch
+runMain
+run main src.app.Launch
+compile
+run main Main
+compile
+run main app.Launch
+compile

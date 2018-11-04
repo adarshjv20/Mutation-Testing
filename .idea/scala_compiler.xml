@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="sketch11,adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani" />
+  </component>
+</project>

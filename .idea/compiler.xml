@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani_main" target="1.8" />
+      <module name="adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani_test" target="1.8" />
+      <module name="sketch11_main" target="1.8" />
+      <module name="sketch11_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

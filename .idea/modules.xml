@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani.iml" filepath="$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani-build.iml" filepath="$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani_main.iml" group="adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani_test.iml" group="adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani" />
+    </modules>
+  </component>
+</project>

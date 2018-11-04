@@ -1,8 +1,7 @@
 #ABOUT THE PROJECT - ( Default readme.md)
 
-
-# Sketch
-A Java Paint Application
+# Mutation Matrix
+Manipulate Java bytecode of The Paint application using Structural Reflection using Javassist
 
 ### Prerequisites
 
